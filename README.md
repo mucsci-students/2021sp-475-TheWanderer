@@ -61,7 +61,12 @@ Side-Scroller Beat'Em Up
 2. Extract to a folder
 3. Navigate to the extracted files (Contents/MacOS/The Wanderer app)
 4. Run The Wanderer Application
-
+## Controls
+1. (W,A,S,D or Directional Arrows):Move
+2. Left Click: Attack
+3. Right Click Special( See Character Select to learn more)
+4. SpaceBar: Jump
+5. Escape; Back/Pause
 
 ## Requirements
 * Windows 
